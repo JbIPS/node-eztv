@@ -1,0 +1,40 @@
+{
+  "shows": [
+    {
+      "title": "Last Week Tonight",
+      "quality": "720+",
+      "proper": false,
+      "repack": false
+    },{
+      "title": "Archer",
+      "quality": "720+",
+      "proper": false,
+      "repack": false
+    },{
+      "title": "Castle",
+      "quality": "720+",
+      "proper": false,
+      "repack": false
+    },{
+      "title": "The Magicians",
+      "quality": "720+",
+      "proper": false,
+      "repack": false
+    },{
+      "title": "The Big Bang Theory",
+      "quality": "720+",
+      "proper": false,
+      "repack": false
+    },{
+      "title": "Games of Throne",
+      "quality": "720+",
+      "proper": false,
+      "repack": false
+    },{
+      "title": "The Simpsons",
+      "quality": "720+",
+      "proper": false,
+      "repack": false
+    }
+  ]
+}
